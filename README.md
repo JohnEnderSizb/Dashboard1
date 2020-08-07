@@ -1,3 +1,3 @@
 # Dashboard1
 
-![Alt text](./screenshot.gif?raw=true "Title")
+![Alt text](./screenshot.gif?raw=true "Screenshot")
